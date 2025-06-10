@@ -6,7 +6,11 @@ const Hero = () => {
     <section className="bg-gradient-to-br from-slate-900 to-slate-800 text-white py-20">
       <div className="container mx-auto px-6 text-center">
         <div className="flex items-center justify-center mb-6">
-          <Icon name="Car" size={48} className="text-blue-400 mr-4" />
+          <img
+            src="https://cdn.poehali.dev/files/41467780-bb70-41d4-ba18-770efb991c8a.png"
+            alt="Update Detailing Logo"
+            className="h-12 w-auto mr-4"
+          />
           <h1 className="text-5xl font-bold font-montserrat">
             Студия детейлинга <span className="text-blue-400">Update</span>
           </h1>
